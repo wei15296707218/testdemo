@@ -1,0 +1,129 @@
+
+#div1{
+	width: 100%;
+}
+
+#div1>img{
+	width: 100%;
+	
+}
+
+*{
+	margin: 0px;
+}
+
+#clear{
+	clear: both;	
+}
+
+#div2{
+	display: flex;
+	justify-content: center;
+    flex-wrap: wrap;
+}
+#div2 > img{
+	width: 20%;
+	
+}
+
+
+#div3{
+	width: 100%;
+}
+#div3> #div3_top>img{
+	width: 100%;
+}
+#div3_bm{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;   
+}
+
+#div3_bm>div>{
+	width: 25%;
+}
+#div3_bm>div>img{
+	width: 100%;
+}
+
+#div4{
+	width: 100%;
+	position: relative;
+}
+#div4>#div4_all{
+	width: 100%;
+}
+#div4>#div4_all>img{
+	width: 100%;
+}
+#div4>#img01>img{
+	width: 30%;
+	float: left;
+	position: absolute;
+	top: 22%;
+	left: 4%;
+}
+#div4>#img02>img{
+	width: 30%;
+	float: left;
+	position: absolute;
+	top: 22%;
+	left:35%;
+}
+
+#div4>#img03>img{
+	width: 30%;
+	float: left;
+	position: absolute;
+	top: 22%;
+	left: 67%;
+}
+
+#div5{
+	width: 100%;
+	position: relative;
+}
+#div5>#div5_all{
+	width: 100%;
+}
+#div5>#div5_all>img{
+	width: 100%;
+}
+#div5>#img01>img{
+	width: 30%;
+	float: left;
+	position: absolute;
+	top: 22%;
+	left: 4%;
+}
+#div5>#img02>img{
+	width: 30%;
+	float: left;
+	position: absolute;
+	top: 22%;
+	left:35%;
+}
+
+#div5>#img03>img{
+	width: 30%;
+	float: left;
+	position: absolute;
+	top: 22%;
+	left: 67%;
+}
+
+#div6{
+	width: 100%;
+}
+#div6>#div6_top{
+	width: 100%;
+}
+#div6>#div6_top>img{
+	width: 100%;
+}
+#div6>#div6_bot{
+	width: 100%;
+}
+#div6>#div6_bot>img{
+	width: 100%;
+}
